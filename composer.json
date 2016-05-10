@@ -1,5 +1,5 @@
 {
-    "name": "PiotrJaworski/magento2module",
+    "name": "piotrjaworski/magento2module",
     "description": "Test module for Magento 2",
     "type": "magento2-module",
     "extra": {
